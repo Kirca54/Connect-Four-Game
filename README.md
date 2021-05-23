@@ -3,6 +3,8 @@
  
  Game made with javascript and jquery
  
+ Play here: https://connectfourbykirca.netlify.app/
+ 
  
  
  
